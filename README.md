@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Umershzd
 - 👀 I’m interested in Full Stack Developer projects based on HTML , CSS , React JS , JAVA and Spring Boot.
-- 🌱 I’m currently learning React JS
+- 🌱 I’m currently learning Spring Boot
 - 💞️ I’m looking to collaborate on open projects
 - 📫 You can reach me via github account or my email address m.umer.shehzad@hotmail.com
